@@ -1,6 +1,6 @@
 {
   "name": "strapi-provider-email-mailopost",
-  "version": "4.5.1",
+  "version": "0.0.1",
   "description": "Mailopost provider for Strapi 3",
   "keywords": [
     "strapi",
